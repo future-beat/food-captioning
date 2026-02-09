@@ -1,5 +1,5 @@
-# Large model files
-*.keras
+# Large model files (tracked via Git LFS instead)
+# *.keras
 *.h5
 *.pt
 *.pth
