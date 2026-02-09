@@ -1,0 +1,13 @@
+# Large model files
+*.keras
+*.h5
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
